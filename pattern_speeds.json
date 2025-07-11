@@ -1,0 +1,2202 @@
+{
+  "0-0_00085403.funscript": {
+    "category": "bj",
+    "intensity": 0.1307566759035007,
+    "speed_class": "medium"
+  },
+  "0-0_001ad9bf.funscript": {
+    "category": "bj",
+    "intensity": 0.08685019916301114,
+    "speed_class": "slow"
+  },
+  "0-0_002539a0.funscript": {
+    "category": "bj",
+    "intensity": 0.17851427297356762,
+    "speed_class": "medium"
+  },
+  "0-0_00364e4d.funscript": {
+    "category": "bj",
+    "intensity": 0.13453530525646143,
+    "speed_class": "medium"
+  },
+  "0-0_009687a8.funscript": {
+    "category": "bj",
+    "intensity": 0.21185261947851652,
+    "speed_class": "medium"
+  },
+  "0-0_009f37c9.funscript": {
+    "category": "bj",
+    "intensity": 0.4149724870494093,
+    "speed_class": "fast"
+  },
+  "0-0_00da9251.funscript": {
+    "category": "bj",
+    "intensity": 0.22863713667285096,
+    "speed_class": "medium"
+  },
+  "0-0_00dc3f9d.funscript": {
+    "category": "bj",
+    "intensity": 0.1728592250403115,
+    "speed_class": "medium"
+  },
+  "0-0_00faac77.funscript": {
+    "category": "bj",
+    "intensity": 0.21308689849900278,
+    "speed_class": "medium"
+  },
+  "0-0_012a2f96.funscript": {
+    "category": "bj",
+    "intensity": 0.23513095238095236,
+    "speed_class": "medium"
+  },
+  "0-0_013e8e0f.funscript": {
+    "category": "bj",
+    "intensity": 0.1253428757301854,
+    "speed_class": "medium"
+  },
+  "0-0_01bd6684.funscript": {
+    "category": "bj",
+    "intensity": 0.2721005184997771,
+    "speed_class": "medium"
+  },
+  "0-0_022be915.funscript": {
+    "category": "bj",
+    "intensity": 0.2802578032684584,
+    "speed_class": "medium"
+  },
+  "0-0_022cc1ef.funscript": {
+    "category": "bj",
+    "intensity": 0.28137102037085915,
+    "speed_class": "medium"
+  },
+  "0-0_02951af0.funscript": {
+    "category": "bj",
+    "intensity": 0.1100596256203829,
+    "speed_class": "medium"
+  },
+  "0-0_02a7a6dc.funscript": {
+    "category": "bj",
+    "intensity": 0.204159750319881,
+    "speed_class": "medium"
+  },
+  "0-0_02c55730.funscript": {
+    "category": "bj",
+    "intensity": 0.1356353445048835,
+    "speed_class": "medium"
+  },
+  "0-0_02c63e7f.funscript": {
+    "category": "bj",
+    "intensity": 0.07907393342320594,
+    "speed_class": "slow"
+  },
+  "0-0_02ec5400.funscript": {
+    "category": "bj",
+    "intensity": 0.1180149147727273,
+    "speed_class": "medium"
+  },
+  "0-0_02fc966a.funscript": {
+    "category": "bj",
+    "intensity": 0.2852351472977593,
+    "speed_class": "medium"
+  },
+  "0-0_031606a0.funscript": {
+    "category": "bj",
+    "intensity": 0.254417021150892,
+    "speed_class": "medium"
+  },
+  "0-0_03172f97.funscript": {
+    "category": "bj",
+    "intensity": 0.17415302028381985,
+    "speed_class": "medium"
+  },
+  "0-0_037e81df.funscript": {
+    "category": "bj",
+    "intensity": 0.21415028508867723,
+    "speed_class": "medium"
+  },
+  "0-0_038d121b.funscript": {
+    "category": "bj",
+    "intensity": 0.24903411320822036,
+    "speed_class": "medium"
+  },
+  "0-0_039061cb.funscript": {
+    "category": "bj",
+    "intensity": 0.13367544712239335,
+    "speed_class": "medium"
+  },
+  "0-0_039953d0.funscript": {
+    "category": "bj",
+    "intensity": 0.1702460278543946,
+    "speed_class": "medium"
+  },
+  "0-0_03a28f89.funscript": {
+    "category": "bj",
+    "intensity": 0.10988846553064834,
+    "speed_class": "medium"
+  },
+  "0-0_03ccbd99.funscript": {
+    "category": "bj",
+    "intensity": 0.0474664659883258,
+    "speed_class": "slow"
+  },
+  "0-0_03f241b8.funscript": {
+    "category": "bj",
+    "intensity": 0.28271650883088323,
+    "speed_class": "medium"
+  },
+  "0-0_040dbe59.funscript": {
+    "category": "bj",
+    "intensity": 0.156631643237005,
+    "speed_class": "medium"
+  },
+  "0-0_0410289d.funscript": {
+    "category": "bj",
+    "intensity": 0.27405555400352516,
+    "speed_class": "medium"
+  },
+  "0-0_041a4347.funscript": {
+    "category": "bj",
+    "intensity": 0.25238095238095226,
+    "speed_class": "medium"
+  },
+  "0-0_042fe277.funscript": {
+    "category": "bj",
+    "intensity": 0.15801336677042382,
+    "speed_class": "medium"
+  },
+  "0-0_04873c69.funscript": {
+    "category": "bj",
+    "intensity": 0.17067453734992233,
+    "speed_class": "medium"
+  },
+  "0-0_04c15871.funscript": {
+    "category": "bj",
+    "intensity": 0.06892234382720734,
+    "speed_class": "slow"
+  },
+  "0-0_04d75438.funscript": {
+    "category": "bj",
+    "intensity": 0.4477170462726937,
+    "speed_class": "fast"
+  },
+  "0-0_04e9634a.funscript": {
+    "category": "bj",
+    "intensity": 0.2506194738250956,
+    "speed_class": "medium"
+  },
+  "0-0_04f9d3e5.funscript": {
+    "category": "bj",
+    "intensity": 0.17093918082128068,
+    "speed_class": "medium"
+  },
+  "0-0_050f50ea.funscript": {
+    "category": "bj",
+    "intensity": 0.11772711819752482,
+    "speed_class": "medium"
+  },
+  "0-0_05127344.funscript": {
+    "category": "bj",
+    "intensity": 0.1115153054200416,
+    "speed_class": "medium"
+  },
+  "0-0_0525abaa.funscript": {
+    "category": "bj",
+    "intensity": 0.041175544386562755,
+    "speed_class": "slow"
+  },
+  "0-0_054c7fbd.funscript": {
+    "category": "bj",
+    "intensity": 0.15699448792964288,
+    "speed_class": "medium"
+  },
+  "0-0_05e60019.funscript": {
+    "category": "bj",
+    "intensity": 0.04333734672096741,
+    "speed_class": "slow"
+  },
+  "0-0_0621a667.funscript": {
+    "category": "bj",
+    "intensity": 0.03656742370167116,
+    "speed_class": "slow"
+  },
+  "0-0_06244fe9.funscript": {
+    "category": "bj",
+    "intensity": 0.2916666666666664,
+    "speed_class": "medium"
+  },
+  "0-0_06b1d255.funscript": {
+    "category": "bj",
+    "intensity": 0.06230840325127301,
+    "speed_class": "slow"
+  },
+  "0-0_07504b6d.funscript": {
+    "category": "bj",
+    "intensity": 0.12846771547649735,
+    "speed_class": "medium"
+  },
+  "0-0_07576c0f.funscript": {
+    "category": "bj",
+    "intensity": 0.08340112640038719,
+    "speed_class": "slow"
+  },
+  "0-0_07631a50.funscript": {
+    "category": "bj",
+    "intensity": 0.23937916511450655,
+    "speed_class": "medium"
+  },
+  "0-0_0763b6db.funscript": {
+    "category": "bj",
+    "intensity": 0.14530953973129646,
+    "speed_class": "medium"
+  },
+  "0-0_08b53482.funscript": {
+    "category": "bj",
+    "intensity": 0.1543107599446341,
+    "speed_class": "medium"
+  },
+  "0-0_08bc210d.funscript": {
+    "category": "bj",
+    "intensity": 0.13793103448275862,
+    "speed_class": "medium"
+  },
+  "0-0_08fa5a92.funscript": {
+    "category": "bj",
+    "intensity": 0.12225642201565157,
+    "speed_class": "medium"
+  },
+  "0-0_0950fba1.funscript": {
+    "category": "bj",
+    "intensity": 0.47915772822516567,
+    "speed_class": "fast"
+  },
+  "0-0_09560896.funscript": {
+    "category": "bj",
+    "intensity": 0.08085935577448125,
+    "speed_class": "slow"
+  },
+  "0-0_09790cc7.funscript": {
+    "category": "bj",
+    "intensity": 0.08396457674950321,
+    "speed_class": "slow"
+  },
+  "0-0_09d29df2.funscript": {
+    "category": "bj",
+    "intensity": 0.08161096777448666,
+    "speed_class": "slow"
+  },
+  "0-0_09e5835a.funscript": {
+    "category": "bj",
+    "intensity": 0.15261806625178845,
+    "speed_class": "medium"
+  },
+  "0-0_09ff5376.funscript": {
+    "category": "bj",
+    "intensity": 0.012591194273754667,
+    "speed_class": "slow"
+  },
+  "0-0_0aa1c912.funscript": {
+    "category": "bj",
+    "intensity": 0.06209993435327191,
+    "speed_class": "slow"
+  },
+  "0-0_0af55e79.funscript": {
+    "category": "bj",
+    "intensity": 0.03712860144057623,
+    "speed_class": "slow"
+  },
+  "0-0_0b4329f3.funscript": {
+    "category": "bj",
+    "intensity": 0.1598961794019935,
+    "speed_class": "medium"
+  },
+  "0-0_0b74cb5b.funscript": {
+    "category": "bj",
+    "intensity": 0.14177842057320011,
+    "speed_class": "medium"
+  },
+  "0-0_0bfd627c.funscript": {
+    "category": "bj",
+    "intensity": 0.08921070706515316,
+    "speed_class": "slow"
+  },
+  "0-0_0cf90ed1.funscript": {
+    "category": "bj",
+    "intensity": 0.07843891185235027,
+    "speed_class": "slow"
+  },
+  "0-0_0d21b7b6.funscript": {
+    "category": "bj",
+    "intensity": 0.10627224627783002,
+    "speed_class": "medium"
+  },
+  "0-0_0d9a2d45.funscript": {
+    "category": "bj",
+    "intensity": 0.072798679944736,
+    "speed_class": "slow"
+  },
+  "0-0_0dddf99d.funscript": {
+    "category": "bj",
+    "intensity": 0.014786521360746324,
+    "speed_class": "slow"
+  },
+  "0-0_0e726525.funscript": {
+    "category": "bj",
+    "intensity": 0.05472300031123561,
+    "speed_class": "slow"
+  },
+  "0-0_1123c585.funscript": {
+    "category": "bj",
+    "intensity": 0.040266038191772414,
+    "speed_class": "slow"
+  },
+  "0-0_1133755b.funscript": {
+    "category": "bj",
+    "intensity": 0.06147416375815542,
+    "speed_class": "slow"
+  },
+  "0-0_128ba88d.funscript": {
+    "category": "bj",
+    "intensity": 0.05443583977716843,
+    "speed_class": "slow"
+  },
+  "0-0_157fb85a.funscript": {
+    "category": "bj",
+    "intensity": 0.03285774090149549,
+    "speed_class": "slow"
+  },
+  "0-0_198641ce.funscript": {
+    "category": "bj",
+    "intensity": 0.13409123372975748,
+    "speed_class": "medium"
+  },
+  "0-0_1b13f987.funscript": {
+    "category": "bj",
+    "intensity": 0.039655172413793106,
+    "speed_class": "slow"
+  },
+  "0-0_1bf7033e.funscript": {
+    "category": "bj",
+    "intensity": 0.11202692260923432,
+    "speed_class": "medium"
+  },
+  "0-0_1d2058e5.funscript": {
+    "category": "bj",
+    "intensity": 0.06685484723486575,
+    "speed_class": "slow"
+  },
+  "0-0_1d2e3078.funscript": {
+    "category": "bj",
+    "intensity": 0.09064506642044666,
+    "speed_class": "slow"
+  },
+  "0-0_1de71e62.funscript": {
+    "category": "bj",
+    "intensity": 0.1566239888726356,
+    "speed_class": "medium"
+  },
+  "0-0_1e546bb0.funscript": {
+    "category": "bj",
+    "intensity": 0.10154152148733883,
+    "speed_class": "medium"
+  },
+  "0-0_1e7aa5d1.funscript": {
+    "category": "bj",
+    "intensity": 0.21092516756422167,
+    "speed_class": "medium"
+  },
+  "0-0_1e84c02b.funscript": {
+    "category": "bj",
+    "intensity": 0.10307690635733044,
+    "speed_class": "medium"
+  },
+  "0-0_1ea441cb.funscript": {
+    "category": "bj",
+    "intensity": 0.13899992796403843,
+    "speed_class": "medium"
+  },
+  "0-0_1f918987.funscript": {
+    "category": "bj",
+    "intensity": 0.048953239490250086,
+    "speed_class": "slow"
+  },
+  "0-0_207882e8.funscript": {
+    "category": "bj",
+    "intensity": 0.09383607052510351,
+    "speed_class": "slow"
+  },
+  "0-0_20e8dcc6.funscript": {
+    "category": "bj",
+    "intensity": 0.09181638418847593,
+    "speed_class": "slow"
+  },
+  "0-0_21869efe.funscript": {
+    "category": "bj",
+    "intensity": 0.19703730230429792,
+    "speed_class": "medium"
+  },
+  "0-0_21a32164.funscript": {
+    "category": "bj",
+    "intensity": 0.07446001274138637,
+    "speed_class": "slow"
+  },
+  "0-0_21b840a7.funscript": {
+    "category": "bj",
+    "intensity": 0.008664383447177758,
+    "speed_class": "slow"
+  },
+  "0-0_242f8dfd.funscript": {
+    "category": "bj",
+    "intensity": 0.022494404516876426,
+    "speed_class": "slow"
+  },
+  "0-0_262cfc61.funscript": {
+    "category": "bj",
+    "intensity": 0.13718210954106227,
+    "speed_class": "medium"
+  },
+  "0-0_26db3aba.funscript": {
+    "category": "bj",
+    "intensity": 0.12824457373014095,
+    "speed_class": "medium"
+  },
+  "0-0_27298507.funscript": {
+    "category": "bj",
+    "intensity": 0.0,
+    "speed_class": "slow"
+  },
+  "0-0_288723e8.funscript": {
+    "category": "bj",
+    "intensity": 0.08872165943400451,
+    "speed_class": "slow"
+  },
+  "0-0_297d0dd6.funscript": {
+    "category": "bj",
+    "intensity": 0.06763693524336639,
+    "speed_class": "slow"
+  },
+  "0-0_2998beef.funscript": {
+    "category": "bj",
+    "intensity": 0.06570761785683436,
+    "speed_class": "slow"
+  },
+  "0-0_2a1458ae.funscript": {
+    "category": "bj",
+    "intensity": 0.16644354420089713,
+    "speed_class": "medium"
+  },
+  "0-0_2a2643d3.funscript": {
+    "category": "bj",
+    "intensity": 0.08855728738225349,
+    "speed_class": "slow"
+  },
+  "0-0_2a4fc3af.funscript": {
+    "category": "bj",
+    "intensity": 0.354824993304197,
+    "speed_class": "fast"
+  },
+  "0-0_2aa4d730.funscript": {
+    "category": "bj",
+    "intensity": 0.04285714285714286,
+    "speed_class": "slow"
+  },
+  "0-0_2ab152ae.funscript": {
+    "category": "bj",
+    "intensity": 0.18050724727679274,
+    "speed_class": "medium"
+  },
+  "0-0_2ab38a49.funscript": {
+    "category": "bj",
+    "intensity": 0.16668651104529883,
+    "speed_class": "medium"
+  },
+  "0-0_2abe7e1c.funscript": {
+    "category": "bj",
+    "intensity": 0.03140910712726734,
+    "speed_class": "slow"
+  },
+  "0-0_2ad42a09.funscript": {
+    "category": "bj",
+    "intensity": 0.20945797985875864,
+    "speed_class": "medium"
+  },
+  "0-0_2af4a8d2.funscript": {
+    "category": "bj",
+    "intensity": 0.12394892144892143,
+    "speed_class": "medium"
+  },
+  "0-0_2b078037.funscript": {
+    "category": "bj",
+    "intensity": 0.1326808094169205,
+    "speed_class": "medium"
+  },
+  "0-0_2b3997c4.funscript": {
+    "category": "bj",
+    "intensity": 0.04217951832145135,
+    "speed_class": "slow"
+  },
+  "0-0_2b3a4388.funscript": {
+    "category": "bj",
+    "intensity": 0.1738943669499225,
+    "speed_class": "medium"
+  },
+  "0-0_2b48665e.funscript": {
+    "category": "bj",
+    "intensity": 0.09933959692467428,
+    "speed_class": "slow"
+  },
+  "0-0_2b48b4d1.funscript": {
+    "category": "bj",
+    "intensity": 0.16830253979565926,
+    "speed_class": "medium"
+  },
+  "0-0_2b52da54.funscript": {
+    "category": "bj",
+    "intensity": 0.18963180865586332,
+    "speed_class": "medium"
+  },
+  "0-0_2b969aed.funscript": {
+    "category": "bj",
+    "intensity": 0.2847784221010532,
+    "speed_class": "medium"
+  },
+  "0-0_2b9bf1a2.funscript": {
+    "category": "bj",
+    "intensity": 0.0,
+    "speed_class": "slow"
+  },
+  "0-0_2b9e7dd4.funscript": {
+    "category": "bj",
+    "intensity": 0.15566413650196023,
+    "speed_class": "medium"
+  },
+  "0-0_2ba774d2.funscript": {
+    "category": "bj",
+    "intensity": 0.13452027768511923,
+    "speed_class": "medium"
+  },
+  "0-0_2baabb54.funscript": {
+    "category": "bj",
+    "intensity": 0.38626302083333336,
+    "speed_class": "fast"
+  },
+  "0-0_2bac541c.funscript": {
+    "category": "bj",
+    "intensity": 0.15644570707070704,
+    "speed_class": "medium"
+  },
+  "0-0_2bbdbf78.funscript": {
+    "category": "bj",
+    "intensity": 0.1195876323825359,
+    "speed_class": "medium"
+  },
+  "0-0_2bd80dc7.funscript": {
+    "category": "bj",
+    "intensity": 0.025091840823099863,
+    "speed_class": "slow"
+  },
+  "0-100_001aa326.funscript": {
+    "category": "bj",
+    "intensity": 0.27668535432918906,
+    "speed_class": "medium"
+  },
+  "0-100_004dcf37.funscript": {
+    "category": "bj",
+    "intensity": 0.06765141637279204,
+    "speed_class": "slow"
+  },
+  "0-100_005fc3e5.funscript": {
+    "category": "bj",
+    "intensity": 0.2062431648497725,
+    "speed_class": "medium"
+  },
+  "0-100_01b3cfcf.funscript": {
+    "category": "bj",
+    "intensity": 0.1448260073260073,
+    "speed_class": "medium"
+  },
+  "0-100_01f39a49.funscript": {
+    "category": "bj",
+    "intensity": 0.16759942438513867,
+    "speed_class": "medium"
+  },
+  "0-100_0207b9ae.funscript": {
+    "category": "bj",
+    "intensity": 0.06933475220421577,
+    "speed_class": "slow"
+  },
+  "0-100_02b22780.funscript": {
+    "category": "bj",
+    "intensity": 0.07504150391664458,
+    "speed_class": "slow"
+  },
+  "0-100_02f931ec.funscript": {
+    "category": "bj",
+    "intensity": 0.07947251054309916,
+    "speed_class": "slow"
+  },
+  "0-100_034fadff.funscript": {
+    "category": "bj",
+    "intensity": 0.07700163347540911,
+    "speed_class": "slow"
+  },
+  "0-100_03ad5435.funscript": {
+    "category": "bj",
+    "intensity": 0.10750949023425373,
+    "speed_class": "medium"
+  },
+  "0-100_03e0feba.funscript": {
+    "category": "bj",
+    "intensity": 0.06482715410747472,
+    "speed_class": "slow"
+  },
+  "0-100_03f4eec6.funscript": {
+    "category": "bj",
+    "intensity": 0.06496944523154902,
+    "speed_class": "slow"
+  },
+  "0-100_0448c0f1.funscript": {
+    "category": "bj",
+    "intensity": 0.02946152653310674,
+    "speed_class": "slow"
+  },
+  "0-100_0454ff21.funscript": {
+    "category": "bj",
+    "intensity": 0.2118461053847189,
+    "speed_class": "medium"
+  },
+  "0-100_0486ee3b.funscript": {
+    "category": "bj",
+    "intensity": 0.3519589371183731,
+    "speed_class": "fast"
+  },
+  "0-100_0489cc45.funscript": {
+    "category": "bj",
+    "intensity": 0.2765349351095061,
+    "speed_class": "medium"
+  },
+  "0-100_048ed660.funscript": {
+    "category": "bj",
+    "intensity": 0.03531295427514207,
+    "speed_class": "slow"
+  },
+  "0-100_04918368.funscript": {
+    "category": "bj",
+    "intensity": 0.07516521112066417,
+    "speed_class": "slow"
+  },
+  "0-100_04de7003.funscript": {
+    "category": "bj",
+    "intensity": 0.050687791039982874,
+    "speed_class": "slow"
+  },
+  "0-100_04f34b06.funscript": {
+    "category": "bj",
+    "intensity": 0.3438247706885717,
+    "speed_class": "fast"
+  },
+  "0-100_0501e3c4.funscript": {
+    "category": "bj",
+    "intensity": 0.13326554355581266,
+    "speed_class": "medium"
+  },
+  "0-100_05b939cd.funscript": {
+    "category": "bj",
+    "intensity": 0.1278229577032468,
+    "speed_class": "medium"
+  },
+  "0-100_05f886ff.funscript": {
+    "category": "bj",
+    "intensity": 0.08779950886419159,
+    "speed_class": "slow"
+  },
+  "0-100_062d3e91.funscript": {
+    "category": "bj",
+    "intensity": 0.12436150134957528,
+    "speed_class": "medium"
+  },
+  "0-100_0664c0c4.funscript": {
+    "category": "bj",
+    "intensity": 0.14114248441519545,
+    "speed_class": "medium"
+  },
+  "0-100_06908473.funscript": {
+    "category": "bj",
+    "intensity": 0.1547307237493455,
+    "speed_class": "medium"
+  },
+  "0-100_069b2d6d.funscript": {
+    "category": "bj",
+    "intensity": 0.15589105503118625,
+    "speed_class": "medium"
+  },
+  "0-100_06c448e7.funscript": {
+    "category": "bj",
+    "intensity": 0.355508041069061,
+    "speed_class": "fast"
+  },
+  "0-100_07a217ba.funscript": {
+    "category": "bj",
+    "intensity": 0.04492670854749667,
+    "speed_class": "slow"
+  },
+  "0-100_07a9af00.funscript": {
+    "category": "bj",
+    "intensity": 0.11380166753478761,
+    "speed_class": "medium"
+  },
+  "0-100_07d1c18c.funscript": {
+    "category": "bj",
+    "intensity": 0.22539533232357076,
+    "speed_class": "medium"
+  },
+  "0-100_081d5b93.funscript": {
+    "category": "bj",
+    "intensity": 0.19276926446569304,
+    "speed_class": "medium"
+  },
+  "0-100_085768b5.funscript": {
+    "category": "bj",
+    "intensity": 0.04290783460810085,
+    "speed_class": "slow"
+  },
+  "0-100_0ad7c144.funscript": {
+    "category": "bj",
+    "intensity": 0.05254648560226863,
+    "speed_class": "slow"
+  },
+  "0-100_0bfc9498.funscript": {
+    "category": "bj",
+    "intensity": 0.30477358959352185,
+    "speed_class": "fast"
+  },
+  "0-100_0c0ebcac.funscript": {
+    "category": "bj",
+    "intensity": 0.0649565017096498,
+    "speed_class": "slow"
+  },
+  "0-100_0cd4613a.funscript": {
+    "category": "bj",
+    "intensity": 0.13510783336206364,
+    "speed_class": "medium"
+  },
+  "0-100_0cf9f3c5.funscript": {
+    "category": "bj",
+    "intensity": 0.08649595415072814,
+    "speed_class": "slow"
+  },
+  "0-100_0d954107.funscript": {
+    "category": "bj",
+    "intensity": 0.11047362753642494,
+    "speed_class": "medium"
+  },
+  "0-100_0e992d68.funscript": {
+    "category": "bj",
+    "intensity": 0.02266529194616996,
+    "speed_class": "slow"
+  },
+  "0-100_0eec2a6a.funscript": {
+    "category": "bj",
+    "intensity": 0.03438886175534202,
+    "speed_class": "slow"
+  },
+  "0-100_107c7e21.funscript": {
+    "category": "bj",
+    "intensity": 0.049126404268278086,
+    "speed_class": "slow"
+  },
+  "0-100_116e0e19.funscript": {
+    "category": "bj",
+    "intensity": 0.05493616642855517,
+    "speed_class": "slow"
+  },
+  "0-100_138afb29.funscript": {
+    "category": "bj",
+    "intensity": 0.16753082073448203,
+    "speed_class": "medium"
+  },
+  "0-100_14f2fc6e.funscript": {
+    "category": "bj",
+    "intensity": 0.09713722531930073,
+    "speed_class": "slow"
+  },
+  "0-100_15a615d2.funscript": {
+    "category": "bj",
+    "intensity": 0.009701829226682177,
+    "speed_class": "slow"
+  },
+  "1.funscript": {
+    "category": "bj",
+    "intensity": 0.12262340501080685,
+    "speed_class": "medium"
+  },
+  "100-0_005aca4b.funscript": {
+    "category": "bj",
+    "intensity": 0.08025087985107975,
+    "speed_class": "slow"
+  },
+  "100-0_005ec4c7.funscript": {
+    "category": "bj",
+    "intensity": 0.2904422712695199,
+    "speed_class": "medium"
+  },
+  "100-0_016327de.funscript": {
+    "category": "bj",
+    "intensity": 0.10067154900493466,
+    "speed_class": "medium"
+  },
+  "100-0_017ec2d2.funscript": {
+    "category": "bj",
+    "intensity": 0.10588141025641026,
+    "speed_class": "medium"
+  },
+  "100-0_02f3f7e3.funscript": {
+    "category": "bj",
+    "intensity": 0.06803330532370552,
+    "speed_class": "slow"
+  },
+  "100-0_03514770.funscript": {
+    "category": "bj",
+    "intensity": 0.19639953949214708,
+    "speed_class": "medium"
+  },
+  "100-0_03d1267a.funscript": {
+    "category": "bj",
+    "intensity": 0.09486369109169339,
+    "speed_class": "slow"
+  },
+  "100-0_04117ad6.funscript": {
+    "category": "bj",
+    "intensity": 0.22068654211853161,
+    "speed_class": "medium"
+  },
+  "100-0_0434c3c3.funscript": {
+    "category": "bj",
+    "intensity": 0.11402225699571424,
+    "speed_class": "medium"
+  },
+  "100-0_043af592.funscript": {
+    "category": "bj",
+    "intensity": 0.055254924209931236,
+    "speed_class": "slow"
+  },
+  "100-0_049c5b57.funscript": {
+    "category": "bj",
+    "intensity": 0.11889282645885446,
+    "speed_class": "medium"
+  },
+  "100-0_0521fef7.funscript": {
+    "category": "bj",
+    "intensity": 0.06693440428380187,
+    "speed_class": "slow"
+  },
+  "100-0_052c10b2.funscript": {
+    "category": "bj",
+    "intensity": 0.2928753947429668,
+    "speed_class": "medium"
+  },
+  "100-0_057ddb9b.funscript": {
+    "category": "bj",
+    "intensity": 0.13991377661680054,
+    "speed_class": "medium"
+  },
+  "100-0_05aabcb1.funscript": {
+    "category": "bj",
+    "intensity": 0.040907786806904024,
+    "speed_class": "slow"
+  },
+  "100-0_0703cff9.funscript": {
+    "category": "bj",
+    "intensity": 0.06462192157540995,
+    "speed_class": "slow"
+  },
+  "100-0_0a13d6b1.funscript": {
+    "category": "bj",
+    "intensity": 0.09606400543900544,
+    "speed_class": "slow"
+  },
+  "100-0_0a5c37c6.funscript": {
+    "category": "bj",
+    "intensity": 0.09903133919792176,
+    "speed_class": "slow"
+  },
+  "100-0_0afb8de0.funscript": {
+    "category": "bj",
+    "intensity": 0.10132382575125187,
+    "speed_class": "medium"
+  },
+  "100-0_0b315533.funscript": {
+    "category": "bj",
+    "intensity": 0.0995084379913996,
+    "speed_class": "slow"
+  },
+  "100-0_0c21e01a.funscript": {
+    "category": "bj",
+    "intensity": 0.06538730815452265,
+    "speed_class": "slow"
+  },
+  "100-0_0d5ab132.funscript": {
+    "category": "bj",
+    "intensity": 0.15425155605937294,
+    "speed_class": "medium"
+  },
+  "100-0_0dfd2122.funscript": {
+    "category": "bj",
+    "intensity": 0.07509249118902864,
+    "speed_class": "slow"
+  },
+  "100-0_0e95c1a9.funscript": {
+    "category": "bj",
+    "intensity": 0.13493540918427738,
+    "speed_class": "medium"
+  },
+  "100-0_0ef27948.funscript": {
+    "category": "bj",
+    "intensity": 0.05168728311162522,
+    "speed_class": "slow"
+  },
+  "100-0_0f8a8eac.funscript": {
+    "category": "bj",
+    "intensity": 0.002693312505049961,
+    "speed_class": "slow"
+  },
+  "100-0_11652c9a.funscript": {
+    "category": "bj",
+    "intensity": 0.05802620806311685,
+    "speed_class": "slow"
+  },
+  "100-0_11a39130.funscript": {
+    "category": "bj",
+    "intensity": 0.002685573101299817,
+    "speed_class": "slow"
+  },
+  "100-0_12449482.funscript": {
+    "category": "bj",
+    "intensity": 0.14642089566636338,
+    "speed_class": "medium"
+  },
+  "100-0_128bf651.funscript": {
+    "category": "bj",
+    "intensity": 0.06070807896342128,
+    "speed_class": "slow"
+  },
+  "100-0_1440099e.funscript": {
+    "category": "bj",
+    "intensity": 0.036355402968013664,
+    "speed_class": "slow"
+  },
+  "100-0_14af2362.funscript": {
+    "category": "bj",
+    "intensity": 0.03594870284655072,
+    "speed_class": "slow"
+  },
+  "100-0_15817ecd.funscript": {
+    "category": "bj",
+    "intensity": 0.03802399089480429,
+    "speed_class": "slow"
+  },
+  "100-0_16524fd2.funscript": {
+    "category": "bj",
+    "intensity": 0.07041262799525451,
+    "speed_class": "slow"
+  },
+  "100-0_17602356.funscript": {
+    "category": "bj",
+    "intensity": 0.07712509188432079,
+    "speed_class": "slow"
+  },
+  "100-0_177ddf8c.funscript": {
+    "category": "bj",
+    "intensity": 0.051875537074684334,
+    "speed_class": "slow"
+  },
+  "100-0_17d16a01.funscript": {
+    "category": "bj",
+    "intensity": 0.09744648432397651,
+    "speed_class": "slow"
+  },
+  "100-0_17dc26c8.funscript": {
+    "category": "bj",
+    "intensity": 0.11555987166212965,
+    "speed_class": "medium"
+  },
+  "100-0_185b58bc.funscript": {
+    "category": "bj",
+    "intensity": 0.11842418415413339,
+    "speed_class": "medium"
+  },
+  "100-0_19ee678c.funscript": {
+    "category": "bj",
+    "intensity": 0.053596011816168194,
+    "speed_class": "slow"
+  },
+  "100-0_19f5362a.funscript": {
+    "category": "bj",
+    "intensity": 0.07141150836604565,
+    "speed_class": "slow"
+  },
+  "100-0_1b1b9192.funscript": {
+    "category": "bj",
+    "intensity": 0.09670980735197364,
+    "speed_class": "slow"
+  },
+  "100-0_1b53ed16.funscript": {
+    "category": "bj",
+    "intensity": 0.030232793116405577,
+    "speed_class": "slow"
+  },
+  "100-0_1b66afe5.funscript": {
+    "category": "bj",
+    "intensity": 0.13306679082001363,
+    "speed_class": "medium"
+  },
+  "100-0_1bf5f0dc.funscript": {
+    "category": "bj",
+    "intensity": 0.18634870738022183,
+    "speed_class": "medium"
+  },
+  "100-0_1c977a95.funscript": {
+    "category": "bj",
+    "intensity": 0.06545896692504265,
+    "speed_class": "slow"
+  },
+  "100-0_1ca20e7d.funscript": {
+    "category": "bj",
+    "intensity": 0.14662961399699198,
+    "speed_class": "medium"
+  },
+  "100-0_1cb0c1c4.funscript": {
+    "category": "bj",
+    "intensity": 0.002693312505049961,
+    "speed_class": "slow"
+  },
+  "100-0_1cb97460.funscript": {
+    "category": "bj",
+    "intensity": 0.2400384813073411,
+    "speed_class": "medium"
+  },
+  "100-0_1d698279.funscript": {
+    "category": "bj",
+    "intensity": 0.15571207399132098,
+    "speed_class": "medium"
+  },
+  "100-0_1d9c850b.funscript": {
+    "category": "bj",
+    "intensity": 0.402764535219569,
+    "speed_class": "fast"
+  },
+  "100-0_1dd07a28.funscript": {
+    "category": "bj",
+    "intensity": 0.0950263367472021,
+    "speed_class": "slow"
+  },
+  "100-0_1ded8b98.funscript": {
+    "category": "bj",
+    "intensity": 0.047251657644856074,
+    "speed_class": "slow"
+  },
+  "100-0_1e4c5e5b.funscript": {
+    "category": "bj",
+    "intensity": 0.1693725397647512,
+    "speed_class": "medium"
+  },
+  "100-0_1ec3c684.funscript": {
+    "category": "bj",
+    "intensity": 0.06632460993687146,
+    "speed_class": "slow"
+  },
+  "100-0_1eca7c2c.funscript": {
+    "category": "bj",
+    "intensity": 0.1033584047950833,
+    "speed_class": "medium"
+  },
+  "100-0_1f4ba3bd.funscript": {
+    "category": "bj",
+    "intensity": 0.12291722446546875,
+    "speed_class": "medium"
+  },
+  "100-0_1fd73efe.funscript": {
+    "category": "bj",
+    "intensity": 0.058279839946631294,
+    "speed_class": "slow"
+  },
+  "100-0_200efd2d.funscript": {
+    "category": "bj",
+    "intensity": 0.10132382575125187,
+    "speed_class": "medium"
+  },
+  "100-0_20c5b9c7.funscript": {
+    "category": "bj",
+    "intensity": 0.073709439694869,
+    "speed_class": "slow"
+  },
+  "100-0_20f27bee.funscript": {
+    "category": "bj",
+    "intensity": 0.13248053839662313,
+    "speed_class": "medium"
+  },
+  "100-0_21461bef.funscript": {
+    "category": "bj",
+    "intensity": 0.2087162741141734,
+    "speed_class": "medium"
+  },
+  "100-0_21f43be3.funscript": {
+    "category": "bj",
+    "intensity": 0.002685573101299817,
+    "speed_class": "slow"
+  },
+  "100-0_237bfa31.funscript": {
+    "category": "bj",
+    "intensity": 0.028741897877874574,
+    "speed_class": "slow"
+  },
+  "100-0_238d4022.funscript": {
+    "category": "bj",
+    "intensity": 0.03130321735107672,
+    "speed_class": "slow"
+  },
+  "100-0_23a65dff.funscript": {
+    "category": "bj",
+    "intensity": 0.03290767250798219,
+    "speed_class": "slow"
+  },
+  "100-0_24977c10.funscript": {
+    "category": "bj",
+    "intensity": 0.19861071322468385,
+    "speed_class": "medium"
+  },
+  "100-0_24f86640.funscript": {
+    "category": "bj",
+    "intensity": 0.04983957530364384,
+    "speed_class": "slow"
+  },
+  "100-0_258032c1.funscript": {
+    "category": "bj",
+    "intensity": 0.025012206271656432,
+    "speed_class": "slow"
+  },
+  "100-0_25ac603b.funscript": {
+    "category": "bj",
+    "intensity": 0.1812160201550069,
+    "speed_class": "medium"
+  },
+  "100-0_260584fc.funscript": {
+    "category": "bj",
+    "intensity": 0.01030618436564022,
+    "speed_class": "slow"
+  },
+  "100-0_2669df1a.funscript": {
+    "category": "bj",
+    "intensity": 0.09788790627587067,
+    "speed_class": "slow"
+  },
+  "100-0_2674d35d.funscript": {
+    "category": "bj",
+    "intensity": 0.16364742775770064,
+    "speed_class": "medium"
+  },
+  "100-0_269eb671.funscript": {
+    "category": "bj",
+    "intensity": 0.06356500212269517,
+    "speed_class": "slow"
+  },
+  "100-0_26af04e0.funscript": {
+    "category": "bj",
+    "intensity": 0.20446040822406378,
+    "speed_class": "medium"
+  },
+  "100-0_26b55b96.funscript": {
+    "category": "bj",
+    "intensity": 0.17106218434343434,
+    "speed_class": "medium"
+  },
+  "100-0_26d53724.funscript": {
+    "category": "bj",
+    "intensity": 0.03269163412579072,
+    "speed_class": "slow"
+  },
+  "100-0_26dfbc8f.funscript": {
+    "category": "bj",
+    "intensity": 0.07123563745930703,
+    "speed_class": "slow"
+  },
+  "100-0_273493fe.funscript": {
+    "category": "bj",
+    "intensity": 0.14397358455454012,
+    "speed_class": "medium"
+  },
+  "100-0_274f7502.funscript": {
+    "category": "bj",
+    "intensity": 0.0907488959944366,
+    "speed_class": "slow"
+  },
+  "100-0_2780abf1.funscript": {
+    "category": "bj",
+    "intensity": 0.052470218791489935,
+    "speed_class": "slow"
+  },
+  "100-0_27910e02.funscript": {
+    "category": "bj",
+    "intensity": 0.09929382393561115,
+    "speed_class": "slow"
+  },
+  "100-0_27e68057.funscript": {
+    "category": "bj",
+    "intensity": 0.1325718409849678,
+    "speed_class": "medium"
+  },
+  "100-0_27f62d8b.funscript": {
+    "category": "bj",
+    "intensity": 0.058739138642777564,
+    "speed_class": "slow"
+  },
+  "100-0_284c1fc4.funscript": {
+    "category": "bj",
+    "intensity": 0.11704019386929639,
+    "speed_class": "medium"
+  },
+  "100-0_292ffc3b.funscript": {
+    "category": "bj",
+    "intensity": 0.02124439697308448,
+    "speed_class": "slow"
+  },
+  "100-0_294d62ca.funscript": {
+    "category": "bj",
+    "intensity": 0.07954261183844936,
+    "speed_class": "slow"
+  },
+  "100-0_2a25dffe.funscript": {
+    "category": "bj",
+    "intensity": 0.3063616840731644,
+    "speed_class": "fast"
+  },
+  "100-0_2a3ab34f.funscript": {
+    "category": "bj",
+    "intensity": 0.2561335961966865,
+    "speed_class": "medium"
+  },
+  "100-0_2afbf8cd.funscript": {
+    "category": "bj",
+    "intensity": 0.22303604778747152,
+    "speed_class": "medium"
+  },
+  "100-0_2b5654ca.funscript": {
+    "category": "bj",
+    "intensity": 0.043903653894047746,
+    "speed_class": "slow"
+  },
+  "100-0_2b8e4adf.funscript": {
+    "category": "bj",
+    "intensity": 0.0972005586948942,
+    "speed_class": "slow"
+  },
+  "100-0_2c593c78.funscript": {
+    "category": "bj",
+    "intensity": 0.07058600856817353,
+    "speed_class": "slow"
+  },
+  "100-0_2deb6628.funscript": {
+    "category": "bj",
+    "intensity": 0.31055924773755655,
+    "speed_class": "fast"
+  },
+  "100-0_2df1974a.funscript": {
+    "category": "bj",
+    "intensity": 0.1739489599238597,
+    "speed_class": "medium"
+  },
+  "100-0_2e0281b3.funscript": {
+    "category": "bj",
+    "intensity": 0.21744774012338922,
+    "speed_class": "medium"
+  },
+  "100-0_2e0969aa.funscript": {
+    "category": "bj",
+    "intensity": 0.05453870671149635,
+    "speed_class": "slow"
+  },
+  "100-0_2e0bf9e3.funscript": {
+    "category": "bj",
+    "intensity": 0.036549463502746966,
+    "speed_class": "slow"
+  },
+  "100-0_2fa11ae6.funscript": {
+    "category": "bj",
+    "intensity": 0.03996228335716322,
+    "speed_class": "slow"
+  },
+  "100-0_2fa98cec.funscript": {
+    "category": "bj",
+    "intensity": 0.09422967461074755,
+    "speed_class": "slow"
+  },
+  "100-0_2fd07781.funscript": {
+    "category": "bj",
+    "intensity": 0.07042590107636681,
+    "speed_class": "slow"
+  },
+  "100-0_3167996a.funscript": {
+    "category": "bj",
+    "intensity": 0.11562264769267329,
+    "speed_class": "medium"
+  },
+  "100-0_318ad6db.funscript": {
+    "category": "bj",
+    "intensity": 0.13971810349540809,
+    "speed_class": "medium"
+  },
+  "100-0_31a05bbe.funscript": {
+    "category": "bj",
+    "intensity": 0.04135354383098468,
+    "speed_class": "slow"
+  },
+  "100-0_321e6cf6.funscript": {
+    "category": "bj",
+    "intensity": 0.06582279519470328,
+    "speed_class": "slow"
+  },
+  "100-0_332b323a.funscript": {
+    "category": "bj",
+    "intensity": 0.06339284263805903,
+    "speed_class": "slow"
+  },
+  "100-0_33ddc52e.funscript": {
+    "category": "bj",
+    "intensity": 0.10123228980303499,
+    "speed_class": "medium"
+  },
+  "100-100_00173e5b.funscript": {
+    "category": "bj",
+    "intensity": 0.08299504841424728,
+    "speed_class": "slow"
+  },
+  "100-100_0047f7af.funscript": {
+    "category": "bj",
+    "intensity": 0.23237853577073886,
+    "speed_class": "medium"
+  },
+  "100-100_00af38c9.funscript": {
+    "category": "bj",
+    "intensity": 0.07048440040288251,
+    "speed_class": "slow"
+  },
+  "100-100_00fdaf62.funscript": {
+    "category": "bj",
+    "intensity": 0.07291283352422417,
+    "speed_class": "slow"
+  },
+  "100-100_014f17b1.funscript": {
+    "category": "bj",
+    "intensity": 0.13042472208752923,
+    "speed_class": "medium"
+  },
+  "100-100_0158e6f2.funscript": {
+    "category": "bj",
+    "intensity": 0.18147338228778442,
+    "speed_class": "medium"
+  },
+  "100-100_01fc0933.funscript": {
+    "category": "bj",
+    "intensity": 0.07179694516848294,
+    "speed_class": "slow"
+  },
+  "100-100_02afee43.funscript": {
+    "category": "bj",
+    "intensity": 0.04169549409001547,
+    "speed_class": "slow"
+  },
+  "100-100_03262ecc.funscript": {
+    "category": "bj",
+    "intensity": 0.10688696008721588,
+    "speed_class": "medium"
+  },
+  "100-100_03515be5.funscript": {
+    "category": "bj",
+    "intensity": 0.15133061877692733,
+    "speed_class": "medium"
+  },
+  "100-100_035205ff.funscript": {
+    "category": "bj",
+    "intensity": 0.022913180888641013,
+    "speed_class": "slow"
+  },
+  "100-100_03630868.funscript": {
+    "category": "bj",
+    "intensity": 0.09241647675949402,
+    "speed_class": "slow"
+  },
+  "100-100_03dd48c4.funscript": {
+    "category": "bj",
+    "intensity": 0.15111728783794817,
+    "speed_class": "medium"
+  },
+  "100-100_03f82cb5.funscript": {
+    "category": "bj",
+    "intensity": 0.13345866459928962,
+    "speed_class": "medium"
+  },
+  "100-100_04048cea.funscript": {
+    "category": "bj",
+    "intensity": 0.08787679572213598,
+    "speed_class": "slow"
+  },
+  "100-100_044cc400.funscript": {
+    "category": "bj",
+    "intensity": 0.04288683785388316,
+    "speed_class": "slow"
+  },
+  "100-100_046a2daf.funscript": {
+    "category": "bj",
+    "intensity": 0.09901219196798232,
+    "speed_class": "slow"
+  },
+  "100-100_04eb2242.funscript": {
+    "category": "bj",
+    "intensity": 0.06381671092365773,
+    "speed_class": "slow"
+  },
+  "100-100_04ee0cca.funscript": {
+    "category": "bj",
+    "intensity": 0.08196153801093228,
+    "speed_class": "slow"
+  },
+  "100-100_04f5c447.funscript": {
+    "category": "bj",
+    "intensity": 0.10221466590682644,
+    "speed_class": "medium"
+  },
+  "100-100_053273df.funscript": {
+    "category": "bj",
+    "intensity": 0.09570442325469687,
+    "speed_class": "slow"
+  },
+  "100-100_053b29fa.funscript": {
+    "category": "bj",
+    "intensity": 0.06330528458024473,
+    "speed_class": "slow"
+  },
+  "100-100_058044fb.funscript": {
+    "category": "bj",
+    "intensity": 0.044328183064585164,
+    "speed_class": "slow"
+  },
+  "100-100_05b961ae.funscript": {
+    "category": "bj",
+    "intensity": 0.06785538986711286,
+    "speed_class": "slow"
+  },
+  "100-100_05c4ef55.funscript": {
+    "category": "bj",
+    "intensity": 0.061836150233757776,
+    "speed_class": "slow"
+  },
+  "100-100_05fcb9cb.funscript": {
+    "category": "bj",
+    "intensity": 0.1138348689529793,
+    "speed_class": "medium"
+  },
+  "100-100_07a9b01f.funscript": {
+    "category": "bj",
+    "intensity": 0.05750367576488519,
+    "speed_class": "slow"
+  },
+  "100-100_07d26f2f.funscript": {
+    "category": "bj",
+    "intensity": 0.08990630524771949,
+    "speed_class": "slow"
+  },
+  "100-100_07df8d5f.funscript": {
+    "category": "bj",
+    "intensity": 0.06906029291239489,
+    "speed_class": "slow"
+  },
+  "100-100_08b5ccdb.funscript": {
+    "category": "bj",
+    "intensity": 0.01795694495567116,
+    "speed_class": "slow"
+  },
+  "100-100_0a214e52.funscript": {
+    "category": "bj",
+    "intensity": 0.14852023352785032,
+    "speed_class": "medium"
+  },
+  "100-100_0a2856fe.funscript": {
+    "category": "bj",
+    "intensity": 0.044008534537772495,
+    "speed_class": "slow"
+  },
+  "100-100_0a7afd23.funscript": {
+    "category": "bj",
+    "intensity": 0.09279126046367425,
+    "speed_class": "slow"
+  },
+  "100-100_0a8fcebf.funscript": {
+    "category": "bj",
+    "intensity": 0.032575543329219796,
+    "speed_class": "slow"
+  },
+  "100-100_0a9f90e4.funscript": {
+    "category": "bj",
+    "intensity": 0.05167135146047293,
+    "speed_class": "slow"
+  },
+  "100-100_0b391331.funscript": {
+    "category": "bj",
+    "intensity": 0.10493872388342008,
+    "speed_class": "medium"
+  },
+  "100-100_0bbb6c42.funscript": {
+    "category": "bj",
+    "intensity": 0.024432278666980944,
+    "speed_class": "slow"
+  },
+  "100-100_0c55198e.funscript": {
+    "category": "bj",
+    "intensity": 0.09815433592675717,
+    "speed_class": "slow"
+  },
+  "100-100_0c8a350a.funscript": {
+    "category": "bj",
+    "intensity": 0.1430918429206587,
+    "speed_class": "medium"
+  },
+  "100-100_0ce669ea.funscript": {
+    "category": "bj",
+    "intensity": 0.0705084929110102,
+    "speed_class": "slow"
+  },
+  "100-100_0d8f09ef.funscript": {
+    "category": "bj",
+    "intensity": 0.193577694235589,
+    "speed_class": "medium"
+  },
+  "100-100_0e02c330.funscript": {
+    "category": "bj",
+    "intensity": 0.20427124735013746,
+    "speed_class": "medium"
+  },
+  "100-100_0e1d5cf0.funscript": {
+    "category": "bj",
+    "intensity": 0.07503355568079582,
+    "speed_class": "slow"
+  },
+  "100-100_0e217865.funscript": {
+    "category": "bj",
+    "intensity": 0.03685583822570123,
+    "speed_class": "slow"
+  },
+  "100-100_0e7ee025.funscript": {
+    "category": "bj",
+    "intensity": 0.10413163384564132,
+    "speed_class": "medium"
+  },
+  "100-100_0ecf03ef.funscript": {
+    "category": "bj",
+    "intensity": 0.03985708852519404,
+    "speed_class": "slow"
+  },
+  "100-100_0ef07ab7.funscript": {
+    "category": "bj",
+    "intensity": 0.07715120385358855,
+    "speed_class": "slow"
+  },
+  "100-100_0f6b71ca.funscript": {
+    "category": "bj",
+    "intensity": 0.0899762316289017,
+    "speed_class": "slow"
+  },
+  "100-100_0f7a9caf.funscript": {
+    "category": "bj",
+    "intensity": 0.046310745503106134,
+    "speed_class": "slow"
+  },
+  "100-100_0f82e587.funscript": {
+    "category": "bj",
+    "intensity": 0.09398562899019644,
+    "speed_class": "slow"
+  },
+  "100-100_0fa444ba.funscript": {
+    "category": "bj",
+    "intensity": 0.13390131491947047,
+    "speed_class": "medium"
+  },
+  "100-100_0fa9264c.funscript": {
+    "category": "bj",
+    "intensity": 0.1057135627582971,
+    "speed_class": "medium"
+  },
+  "100-100_0fc21a2b.funscript": {
+    "category": "bj",
+    "intensity": 0.12417069024646125,
+    "speed_class": "medium"
+  },
+  "100-100_103d649e.funscript": {
+    "category": "bj",
+    "intensity": 0.057859023991666286,
+    "speed_class": "slow"
+  },
+  "100-100_104ddc48.funscript": {
+    "category": "bj",
+    "intensity": 0.12885765991311765,
+    "speed_class": "medium"
+  },
+  "100-100_11022bc2.funscript": {
+    "category": "bj",
+    "intensity": 0.08840422435166306,
+    "speed_class": "slow"
+  },
+  "100-100_1113b478.funscript": {
+    "category": "bj",
+    "intensity": 0.015084558187177863,
+    "speed_class": "slow"
+  },
+  "100-100_1196e718.funscript": {
+    "category": "bj",
+    "intensity": 0.04081968567213374,
+    "speed_class": "slow"
+  },
+  "100-100_1286dddf.funscript": {
+    "category": "bj",
+    "intensity": 0.08738905666561558,
+    "speed_class": "slow"
+  },
+  "100-100_129deff6.funscript": {
+    "category": "bj",
+    "intensity": 0.09549662166738322,
+    "speed_class": "slow"
+  },
+  "100-100_1337bb69.funscript": {
+    "category": "bj",
+    "intensity": 0.06599064954732273,
+    "speed_class": "slow"
+  },
+  "100-100_1355a783.funscript": {
+    "category": "bj",
+    "intensity": 0.07028580473024916,
+    "speed_class": "slow"
+  },
+  "100-100_13ab6f4b.funscript": {
+    "category": "bj",
+    "intensity": 0.06045068302132213,
+    "speed_class": "slow"
+  },
+  "100-100_13cf2d2f.funscript": {
+    "category": "bj",
+    "intensity": 0.0636602282520224,
+    "speed_class": "slow"
+  },
+  "100-100_1433b713.funscript": {
+    "category": "bj",
+    "intensity": 0.06997887733874525,
+    "speed_class": "slow"
+  },
+  "100-100_14431d9f.funscript": {
+    "category": "bj",
+    "intensity": 0.07910849474694212,
+    "speed_class": "slow"
+  },
+  "100-100_1478d226.funscript": {
+    "category": "bj",
+    "intensity": 0.09118009454984916,
+    "speed_class": "slow"
+  },
+  "100-100_148c5dbd.funscript": {
+    "category": "bj",
+    "intensity": 0.07764127372807317,
+    "speed_class": "slow"
+  },
+  "100-100_1493518a.funscript": {
+    "category": "bj",
+    "intensity": 0.2917714517943998,
+    "speed_class": "medium"
+  },
+  "11.funscript": {
+    "category": "bj",
+    "intensity": 0.12687562932565782,
+    "speed_class": "medium"
+  },
+  "12.funscript": {
+    "category": "bj",
+    "intensity": 0.3173953716123264,
+    "speed_class": "fast"
+  },
+  "13.funscript": {
+    "category": "bj",
+    "intensity": 0.10104847425249222,
+    "speed_class": "medium"
+  },
+  "14.funscript": {
+    "category": "bj",
+    "intensity": 0.05497139086230899,
+    "speed_class": "slow"
+  },
+  "15.funscript": {
+    "category": "bj",
+    "intensity": 0.07306452024942058,
+    "speed_class": "slow"
+  },
+  "16.funscript": {
+    "category": "bj",
+    "intensity": 0.05057181763339102,
+    "speed_class": "slow"
+  },
+  "17.funscript": {
+    "category": "bj",
+    "intensity": 0.06340180349356436,
+    "speed_class": "slow"
+  },
+  "18.funscript": {
+    "category": "bj",
+    "intensity": 0.04007811833798648,
+    "speed_class": "slow"
+  },
+  "19.funscript": {
+    "category": "bj",
+    "intensity": 0.06916581192602488,
+    "speed_class": "slow"
+  },
+  "2.funscript": {
+    "category": "bj",
+    "intensity": 0.2415815608624644,
+    "speed_class": "medium"
+  },
+  "21.funscript": {
+    "category": "bj",
+    "intensity": 0.08434896868733177,
+    "speed_class": "slow"
+  },
+  "22.funscript": {
+    "category": "bj",
+    "intensity": 0.07540035187501126,
+    "speed_class": "slow"
+  },
+  "23.funscript": {
+    "category": "bj",
+    "intensity": 0.09398587450037292,
+    "speed_class": "slow"
+  },
+  "24.funscript": {
+    "category": "bj",
+    "intensity": 0.04831331014889733,
+    "speed_class": "slow"
+  },
+  "25.funscript": {
+    "category": "bj",
+    "intensity": 0.05323136583918229,
+    "speed_class": "slow"
+  },
+  "26.funscript": {
+    "category": "bj",
+    "intensity": 0.028707821077036226,
+    "speed_class": "slow"
+  },
+  "3.funscript": {
+    "category": "bj",
+    "intensity": 0.20234335144497345,
+    "speed_class": "medium"
+  },
+  "4.funscript": {
+    "category": "bj",
+    "intensity": 0.18620126465460285,
+    "speed_class": "medium"
+  },
+  "5.funscript": {
+    "category": "bj",
+    "intensity": 0.056436613860776454,
+    "speed_class": "slow"
+  },
+  "6.funscript": {
+    "category": "bj",
+    "intensity": 0.24524849230956933,
+    "speed_class": "medium"
+  },
+  "7.funscript": {
+    "category": "bj",
+    "intensity": 0.08901859221452886,
+    "speed_class": "slow"
+  },
+  "8.funscript": {
+    "category": "bj",
+    "intensity": 0.06720488088094557,
+    "speed_class": "slow"
+  },
+  "9.funscript": {
+    "category": "bj",
+    "intensity": 0.2120395696411216,
+    "speed_class": "medium"
+  },
+  "27.funscript": {
+    "category": "transitions",
+    "intensity": 0.1534109159233798,
+    "speed_class": "medium"
+  },
+  "28.funscript": {
+    "category": "transitions",
+    "intensity": 0.10013780057406248,
+    "speed_class": "medium"
+  },
+  "29.funscript": {
+    "category": "transitions",
+    "intensity": 0.17845906758587043,
+    "speed_class": "medium"
+  },
+  "31.funscript": {
+    "category": "transitions",
+    "intensity": 0.1458691919754766,
+    "speed_class": "medium"
+  },
+  "32.funscript": {
+    "category": "transitions",
+    "intensity": 0.07624064970824475,
+    "speed_class": "slow"
+  },
+  "50-50_008b11b9.funscript": {
+    "category": "twerk",
+    "intensity": 0.3023869047619046,
+    "speed_class": "fast"
+  },
+  "50-50_0095d35e.funscript": {
+    "category": "twerk",
+    "intensity": 0.09781366479401324,
+    "speed_class": "slow"
+  },
+  "50-50_0171335a.funscript": {
+    "category": "twerk",
+    "intensity": 0.1676541524143872,
+    "speed_class": "medium"
+  },
+  "50-50_04b7fd98.funscript": {
+    "category": "twerk",
+    "intensity": 0.2629032258064516,
+    "speed_class": "medium"
+  },
+  "50-50_061410cc.funscript": {
+    "category": "twerk",
+    "intensity": 0.09332273658833216,
+    "speed_class": "slow"
+  },
+  "50-50_061bff17.funscript": {
+    "category": "twerk",
+    "intensity": 0.11103681293042242,
+    "speed_class": "medium"
+  },
+  "50-50_06cc4c85.funscript": {
+    "category": "twerk",
+    "intensity": 0.24709200603220605,
+    "speed_class": "medium"
+  },
+  "50-50_071efd88.funscript": {
+    "category": "twerk",
+    "intensity": 0.06696575455196145,
+    "speed_class": "slow"
+  },
+  "50-50_07684957.funscript": {
+    "category": "twerk",
+    "intensity": 0.44834605136653116,
+    "speed_class": "fast"
+  },
+  "50-50_08078107.funscript": {
+    "category": "twerk",
+    "intensity": 0.05567110364143297,
+    "speed_class": "slow"
+  },
+  "50-50_08ba217e.funscript": {
+    "category": "twerk",
+    "intensity": 0.10187878867788414,
+    "speed_class": "medium"
+  },
+  "50-50_08c13dcc.funscript": {
+    "category": "twerk",
+    "intensity": 0.0624285177802096,
+    "speed_class": "slow"
+  },
+  "50-50_09d00fc6.funscript": {
+    "category": "twerk",
+    "intensity": 0.09483634916670629,
+    "speed_class": "slow"
+  },
+  "50-50_0b1caa06.funscript": {
+    "category": "twerk",
+    "intensity": 0.16304842319316964,
+    "speed_class": "medium"
+  },
+  "50-50_0c1035b3.funscript": {
+    "category": "twerk",
+    "intensity": 0.02656395331885586,
+    "speed_class": "slow"
+  },
+  "50-50_0cf187a3.funscript": {
+    "category": "twerk",
+    "intensity": 0.3654687500000001,
+    "speed_class": "fast"
+  },
+  "50-50_0e3d48cb.funscript": {
+    "category": "twerk",
+    "intensity": 0.14197021216496414,
+    "speed_class": "medium"
+  },
+  "50-50_0e8fb770.funscript": {
+    "category": "twerk",
+    "intensity": 0.12030368765483514,
+    "speed_class": "medium"
+  },
+  "50-50_0f10d094.funscript": {
+    "category": "twerk",
+    "intensity": 0.13925035297920707,
+    "speed_class": "medium"
+  },
+  "50-50_0f8cf28c.funscript": {
+    "category": "twerk",
+    "intensity": 0.32175235036761357,
+    "speed_class": "fast"
+  },
+  "50-50_10551d76.funscript": {
+    "category": "twerk",
+    "intensity": 0.08583700743700744,
+    "speed_class": "slow"
+  },
+  "50-50_124d1216.funscript": {
+    "category": "twerk",
+    "intensity": 0.1533147398353172,
+    "speed_class": "medium"
+  },
+  "50-50_1304cd30.funscript": {
+    "category": "twerk",
+    "intensity": 0.0803840658052461,
+    "speed_class": "slow"
+  },
+  "50-50_131ce9dc.funscript": {
+    "category": "twerk",
+    "intensity": 0.26943363979255064,
+    "speed_class": "medium"
+  },
+  "50-50_1538951e.funscript": {
+    "category": "twerk",
+    "intensity": 0.17339139344262297,
+    "speed_class": "medium"
+  },
+  "50-50_15617eaf.funscript": {
+    "category": "twerk",
+    "intensity": 0.14279673396390138,
+    "speed_class": "medium"
+  },
+  "50-50_158223a7.funscript": {
+    "category": "twerk",
+    "intensity": 0.11759260967232743,
+    "speed_class": "medium"
+  },
+  "50-50_17a36e58.funscript": {
+    "category": "twerk",
+    "intensity": 0.11679510425121871,
+    "speed_class": "medium"
+  },
+  "50-50_18965986.funscript": {
+    "category": "twerk",
+    "intensity": 0.27147714930590905,
+    "speed_class": "medium"
+  },
+  "50-50_19327047.funscript": {
+    "category": "twerk",
+    "intensity": 0.14492807539682537,
+    "speed_class": "medium"
+  },
+  "50-50_1aa2069e.funscript": {
+    "category": "twerk",
+    "intensity": 0.2620389344262295,
+    "speed_class": "medium"
+  },
+  "50-50_1cba7b03.funscript": {
+    "category": "twerk",
+    "intensity": 0.0929972589166294,
+    "speed_class": "slow"
+  },
+  "50-50_1e4cfde3.funscript": {
+    "category": "twerk",
+    "intensity": 0.2725801282051283,
+    "speed_class": "medium"
+  },
+  "50-50_1f199b32.funscript": {
+    "category": "twerk",
+    "intensity": 0.17965993074370368,
+    "speed_class": "medium"
+  },
+  "50-50_1f580826.funscript": {
+    "category": "twerk",
+    "intensity": 0.1515320878926338,
+    "speed_class": "medium"
+  },
+  "50-50_1fc41a8e.funscript": {
+    "category": "twerk",
+    "intensity": 0.08201310822666368,
+    "speed_class": "slow"
+  },
+  "50-50_2303fee6.funscript": {
+    "category": "twerk",
+    "intensity": 0.12417713735728683,
+    "speed_class": "medium"
+  },
+  "50-50_253b3321.funscript": {
+    "category": "twerk",
+    "intensity": 0.0508130081300813,
+    "speed_class": "slow"
+  },
+  "50-50_268e2f88.funscript": {
+    "category": "twerk",
+    "intensity": 0.04188972896779143,
+    "speed_class": "slow"
+  },
+  "50-50_28a98aef.funscript": {
+    "category": "twerk",
+    "intensity": 0.07545589934096571,
+    "speed_class": "slow"
+  },
+  "50-50_2adfee6e.funscript": {
+    "category": "twerk",
+    "intensity": 0.1796298715872838,
+    "speed_class": "medium"
+  },
+  "50-50_2b0b8f07.funscript": {
+    "category": "twerk",
+    "intensity": 0.08999487615559044,
+    "speed_class": "slow"
+  },
+  "50-50_2c18ea44.funscript": {
+    "category": "twerk",
+    "intensity": 0.0802498245346361,
+    "speed_class": "slow"
+  },
+  "50-50_2cf48854.funscript": {
+    "category": "twerk",
+    "intensity": 0.02570065629260943,
+    "speed_class": "slow"
+  },
+  "50-50_2d47bf0f.funscript": {
+    "category": "twerk",
+    "intensity": 0.25812157882956044,
+    "speed_class": "medium"
+  },
+  "50-50_333b04ff.funscript": {
+    "category": "twerk",
+    "intensity": 0.10408128385950968,
+    "speed_class": "medium"
+  },
+  "50-50_34d9aa57.funscript": {
+    "category": "twerk",
+    "intensity": 0.07269569364327429,
+    "speed_class": "slow"
+  },
+  "50-50_351d1849.funscript": {
+    "category": "twerk",
+    "intensity": 0.14839324737762238,
+    "speed_class": "medium"
+  },
+  "50-50_35d665ad.funscript": {
+    "category": "twerk",
+    "intensity": 0.10413752913752919,
+    "speed_class": "medium"
+  },
+  "50-50_3648786b.funscript": {
+    "category": "twerk",
+    "intensity": 0.17922916666666666,
+    "speed_class": "medium"
+  },
+  "50-50_36859713.funscript": {
+    "category": "twerk",
+    "intensity": 0.1260059769588933,
+    "speed_class": "medium"
+  },
+  "50-50_374c3901.funscript": {
+    "category": "twerk",
+    "intensity": 0.22222737123518668,
+    "speed_class": "medium"
+  },
+  "50-50_3a02afbb.funscript": {
+    "category": "twerk",
+    "intensity": 0.14948775183150187,
+    "speed_class": "medium"
+  },
+  "50-50_3b16d0ae.funscript": {
+    "category": "twerk",
+    "intensity": 0.21172090456239387,
+    "speed_class": "medium"
+  },
+  "50-50_3c1dcaa1.funscript": {
+    "category": "twerk",
+    "intensity": 0.14438605553265554,
+    "speed_class": "medium"
+  },
+  "50-50_3e6479f4.funscript": {
+    "category": "twerk",
+    "intensity": 0.19537828748658337,
+    "speed_class": "medium"
+  },
+  "50-50_41e15b59.funscript": {
+    "category": "twerk",
+    "intensity": 0.04886452286909426,
+    "speed_class": "slow"
+  },
+  "50-50_420d00d5.funscript": {
+    "category": "twerk",
+    "intensity": 0.17961684595283525,
+    "speed_class": "medium"
+  },
+  "50-50_44ee16a2.funscript": {
+    "category": "twerk",
+    "intensity": 0.13019382951790764,
+    "speed_class": "medium"
+  },
+  "50-50_4580b3db.funscript": {
+    "category": "twerk",
+    "intensity": 0.09081237949562604,
+    "speed_class": "slow"
+  },
+  "50-50_45e04fc6.funscript": {
+    "category": "twerk",
+    "intensity": 0.1296805026869682,
+    "speed_class": "medium"
+  },
+  "50-50_47840350.funscript": {
+    "category": "twerk",
+    "intensity": 0.10572760660981906,
+    "speed_class": "medium"
+  },
+  "50-50_4cb65a25.funscript": {
+    "category": "twerk",
+    "intensity": 0.24301047644181847,
+    "speed_class": "medium"
+  },
+  "50-50_51eb2a2b.funscript": {
+    "category": "twerk",
+    "intensity": 0.1711067376404728,
+    "speed_class": "medium"
+  },
+  "50-50_59cf1f15.funscript": {
+    "category": "twerk",
+    "intensity": 0.17204101848001638,
+    "speed_class": "medium"
+  },
+  "50-50_5a8db5e7.funscript": {
+    "category": "twerk",
+    "intensity": 0.05754453195445805,
+    "speed_class": "slow"
+  },
+  "50-50_602ce3b7.funscript": {
+    "category": "twerk",
+    "intensity": 0.11970224220224221,
+    "speed_class": "medium"
+  },
+  "50-50_6291f294.funscript": {
+    "category": "twerk",
+    "intensity": 0.16311666666666663,
+    "speed_class": "medium"
+  },
+  "50-50_65cae284.funscript": {
+    "category": "twerk",
+    "intensity": 0.31361885904499553,
+    "speed_class": "fast"
+  },
+  "50-50_6a3c446a.funscript": {
+    "category": "twerk",
+    "intensity": 0.1796298715872838,
+    "speed_class": "medium"
+  }
+}
